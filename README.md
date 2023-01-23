@@ -10,21 +10,21 @@
 *[Conheça minha página de apresentação!](https://wesleytakatsu.github.io/Pagina-Apresentacao-Pessoal/)*
  Material de treinamento e testes diversos.  
   
-Um resumo de cada projeto:  
-ola_mundo:  
+## Um resumo de cada projeto:  
+### ola_mundo  
 Um "olá mundo" extremamente simples para mostrar o primeiro texto na tela.  
   
-codigo_padrao_flutter_explicado:  
+### codigo_padrao_flutter_explicado  
 Código que já vem com o Flutter com algumas explicações feitas por mim.  
 npm install ws  
   
-menulateral  
+### menulateral  
 Um menu lateral simples chamando views diferentes.  
   
-chat_01_tela_do_chat  
+### chat_01_tela_do_chat  
 Uma interface de tela de chat simples  
   
-simple_websocket_wesley  
+### simple_websocket_wesley  
 Uma conexão via WebSocket com NodeJS que recebe uma informação do servidor.  
 Usa um pacote no pubspec.yaml para se conectar via WebSocket:  
 dev_dependencies:  
