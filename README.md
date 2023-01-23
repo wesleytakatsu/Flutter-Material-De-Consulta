@@ -31,4 +31,3 @@ dev_dependencies:
  web_socket_channel: ^2.2.0  
 Trabalha em conjunto com o projeto no link do meu repositório abaixo:  
 *[Projeto NodeJS para conexão WebSocket com Flutter](https://github.com/wesleytakatsu/nodejs-treinos-e-aulas/tree/main/04-websocket-flutter)*  
- Material de treinamento e testes diversos. 
