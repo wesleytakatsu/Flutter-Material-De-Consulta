@@ -23,15 +23,14 @@ class _MyAppState extends State<MyApp> {
           if (snapshot.hasError) return Text('Error: ${snapshot.error}');
           switch (snapshot.connectionState) {
             case ConnectionState.none:
-              return Text('No connection');
+              return Text('Não conectado');
             case ConnectionState.waiting:
-              return Text('Connected');
+              return Text('Conectado');
             case ConnectionState.active:
               return Text('${snapshot.data}');
             case ConnectionState.done:
-              return Text('${snapshot.data} (closed)');
+              return Text('${snapshot.data} (Conexão encerrada)');
           }
-         // unreachable
         },
       ),
     );
