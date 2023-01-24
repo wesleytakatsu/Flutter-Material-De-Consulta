@@ -11,24 +11,24 @@
     
   
 ## Um resumo de cada projeto:  
-### ola_mundo  
+### p01_ola_mundo  
 Um "olá mundo" extremamente simples para mostrar o primeiro texto na tela.  
   
   
-### codigo_padrao_flutter_explicado  
+### p02_codigo_padrao_flutter_explicado  
 Código que já vem com o Flutter com algumas explicações feitas por mim.  
 npm install ws  
   
 
-### menulateral  
+### p03_menu_lateral  
 Um menu lateral simples chamando views diferentes.  
   
 
-### chat_01_tela_do_chat  
+### p04_chat_01_tela_do_chat  
 Uma interface de tela de chat simples  
   
 
-### simple_websocket_wesley  
+### p05_simple_websocket_wesley  
 Uma conexão via WebSocket com NodeJS que recebe uma informação do servidor.  
 Usa um pacote no pubspec.yaml para se conectar via WebSocket:  
 dev_dependencies:  
